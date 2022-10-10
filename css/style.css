@@ -428,6 +428,7 @@ h6{
 
     aside{
         max-width: 230px;
+        overflow: hidden;
     }
     
     .logo-aside2{
